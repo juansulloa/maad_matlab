@@ -1,5 +1,5 @@
 # Multiresolution Analysis of Acoustic Data (MAAD)
-The present script reports basic instructions to run the Multiresolution Analysis of Acoustic Diversity (MAAD) on audio. Written by Juan Sebastian Ulloa Museum national d'Histoire naturelle and Universite Paris-Saclay October 2017.
+The present codes report basic instructions to run the Multiresolution Analysis of Acoustic Diversity (MAAD) on audio. Written by Juan Sebastian Ulloa Museum national d'Histoire naturelle and Universite Paris-Saclay October 2017.
 
 Supporting information for article: Ulloa et al. "Estimating animal acoustic diversity in tropical environments using unsupervised multiresolution analysis". Ecological Indicators, under review.
 
