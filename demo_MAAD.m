@@ -1,5 +1,5 @@
 %% MULTIRESOLUTION ANALYSIS OF ACOUSTIC DATA (MAAD)
-% The present script presents basic instructions to run the
+% The present script reports basic instructions to run the
 % Multiresolution Analysis of Acoustic Diversity (MAAD) on audio
 % recordings. This program is free software: you can redistribute it and/or
 % modify it under the terms of the GNU General Public License
@@ -12,7 +12,7 @@
 %
 % Supporting information for article: Ulloa et al. Estimating animal
 % acoustic diversity in tropical environments using unsupervised
-% multiresolution analysis. Methods in Ecology and Evolution, under review.
+% multiresolution analysis. Ecological Indicators, under review.
 % --
 % Basic system requirements are:
 %   - Matlab R2014b or later with ScatNet (v 0.2) toolbox. Scatnet toolbox can be downloaded from
@@ -23,8 +23,7 @@
 % To run the analysis you need to switch between two software environments.
 % For preprocessing, detection and characterization of ROIs, and
 % visualization you need to use a Matlab console. For the clustering step,
-% you need to use the R console. Codes for the Matlab and R consoles can be
-% found in the matlab scripts and r scripts directories respectively.
+% you need to use the R console.
 
 %% LOAD AUDIO AND SYSTEM PARAMETERS
 % Open a Matlab console, load audio and default options for the analysis:
